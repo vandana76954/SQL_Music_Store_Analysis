@@ -1,5 +1,5 @@
 # SQL_Project_Music_Store_Analysis
-SQL project to analyze online music store data objective is to understand the dataset using SQL and help the store understand its business growth by taking out some useful information by answering some simple questions.
+This is a SQL project in which we analyzed music store data to understand the dataset using SQL and help the music store understand its business growth by taking out some meaningful information by answering some simple questions.
 
 ## Database and Tools
 * Postgre SQL
